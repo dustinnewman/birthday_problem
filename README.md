@@ -14,7 +14,7 @@ The birthday problem is a statistical phenomenon where the chances two people in
 
 I built a Rust program to experimentally validate this. You can run as:
 
-```rust
+```
 cargo run <n>
 ```
 
